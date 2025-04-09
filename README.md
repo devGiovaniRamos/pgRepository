@@ -1,2 +1,2 @@
 # pgRepository
- Meu repositório
+ Repositório de estudos
